@@ -13,7 +13,7 @@ class TestCustomer(unittest.TestCase):
         self.assertEqual(40, self.customer.wallet)
         
     def test_customer_can_buy_drink(self):
-        pub=Pub("David")
+      pass  
     
     
 # customer's money has reduced
